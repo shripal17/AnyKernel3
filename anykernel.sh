@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Meraki Kernel by Niranjan
+kernel.string=Pure Kernel by @VenturX, @babu_frik (Telegram)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweet
-device.name2=sweetin
+device.name1=phoenix
+device.name2=phoenixin
 supported.versions=14 - 15
 supported.patchlevels=
 supported.vendorpatchlevels=
